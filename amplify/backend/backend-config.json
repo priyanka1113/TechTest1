@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "myproj3dc5b6f2": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "analytics": {
+    "myproj": {
+      "service": "Pinpoint",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
